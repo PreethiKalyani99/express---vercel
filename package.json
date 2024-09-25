@@ -3,7 +3,8 @@
     "ejs": "^3.1.10",
     "express": "^4.21.0",
     "jade": "^1.11.0",
-    "pug": "^3.0.3"
+    "pug": "^3.0.3",
+    "uglify-js": "^3.19.3"
   },
   "name": "expressjs-project",
   "version": "1.0.0",
