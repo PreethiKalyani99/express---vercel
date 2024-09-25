@@ -5,7 +5,7 @@ const app = express()
 const PORT = 4000
 
 app.set('views', path.join(__dirname, 'views'))
-app.set('view engine', 'jade')
+app.set('view engine', 'pug')
 
 const homeRouter = require('./routes/home')
 const usersRouter = require('./routes/users')
